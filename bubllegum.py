@@ -1,0 +1,4 @@
+
+def bubblegum(s):
+	pass
+	
