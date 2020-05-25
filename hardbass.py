@@ -1,0 +1,3 @@
+
+def bashardpass(a):
+	pass
